@@ -1,2 +1,2 @@
 # SoftwareTestingProject
-One course project of Software Testing in TJSSE. Built by Song, Huang and Can.
+One course project of Software Testing in TJSSE. Built by Song, Zeyu and Can.
